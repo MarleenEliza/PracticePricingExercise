@@ -1,2 +1,2 @@
 # PracticePricingExercise
-A repository for practice 
+A repository for a practice exercise to create a responsive Pricing plan
