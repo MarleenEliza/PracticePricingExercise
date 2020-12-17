@@ -11,7 +11,8 @@ HTML・CSSのFlexBoxとモバイル・PC両方対応のサイト作成のため�
 * FlexboxとResponsiveデザインの練習
  
 # Demo
-簡単なStatic　Web Siteであるため、https://marleeneliza.github.io/projects/price-plan/index.html　でアクセスできる。
+簡単なStatic　Web Siteであるため、https://marleeneliza.github.io/projects/price-plan/index.html　
+でアクセスできる。
 
 # Environment
 HTML、CSS
